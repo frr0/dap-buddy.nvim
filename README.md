@@ -107,25 +107,25 @@ You can use your favorite plugin manager for this. Here are some examples with t
 ### Vim-plug
 
 ```lua
-Plug 'Pocco81/DAPInstall.nvim'
+Plug 'frr0/dap-install'
 ```
 
 ### Packer.nvim
 
 ```lua
-use "Pocco81/DAPInstall.nvim"
+use "frr0/dap-install"
 ```
 
 ### Vundle
 
 ```lua
-Plugin 'Pocco81/DAPInstall.nvim'
+Plugin 'frr0/dap-install'
 ```
 
 ### NeoBundle
 
 ```lua
-NeoBundleFetch 'Pocco81/DAPInstall.nvim'
+NeoBundleFetch 'frr0/dap-install'
 ```
 
 ## Setup (configuration)
